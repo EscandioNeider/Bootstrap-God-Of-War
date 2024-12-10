@@ -1,0 +1,77 @@
+html {
+    height: 100%;  
+}
+
+body {
+    margin: 0; /* Remove margens padrão */
+    height: 100%;
+    background-image: url(media/iceland-nature.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/* ---INDEX--- */
+/* Cabeçalho */
+.py-3{
+    background-color: #515e77e0;
+    color: aliceblue;
+    border-bottom: #7197bd80;
+}
+header .row div {
+    margin-bottom: 10px;
+}
+
+header .btn {
+    font-size: 14px;
+}
+
+header a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.midias-sociais a img {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle; 
+}
+
+.row img {
+    width: 100%;
+    height: auto; /* Mantém proporções */
+}
+
+/* carrossel */
+.carousel .carousel-item img {
+    width: 60%; /* Ajuste conforme necessário */
+    height: 0%;  /* Mantém a proporção */
+    margin: 0 auto; /* Centraliza as imagens */
+}
+
+
+/* ---FOOTER--- */
+footer {
+    background-color: #515e77a0;
+    color: #f4f2f2;
+    padding: 20px 0;
+}
+
+footer a {
+    color: #f4f2f2;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer img {
+    max-width: 30px;
+    height: auto;
+}
+
+footer .img-fluid {
+    max-width: 100px;
+}
+
