@@ -11,9 +11,9 @@ Este projeto foi desenvolvido como parte de um exercício acadêmico para a cria
 -> **HTML5** e **CSS3**
 -> **Bootstrap 5**
 
-Visite o Site! ()
-
 ## 🏷️ Tags
  `#Bootstrap` `#GodOfWar` `#PáginaResponsiva`
  `#HTML` `#CSS` `#ProjetoAcadêmico`
  `#SemFinsLucrativos` `#DesignResponsivo` `#DireitosAutoraisRespeitados`
+
+ 🔗 Visite o Site! ( https://escandioneider.github.io/Bootstrap-God-Of-War/)
