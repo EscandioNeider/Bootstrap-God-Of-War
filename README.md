@@ -1,7 +1,10 @@
 # ⚔️Ω🔥 Projeto Bootstrap - God of War
 
 Este projeto foi desenvolvido como parte de um exercício acadêmico para a criação de uma página web responsiva utilizando elementos do framework **Bootstrap**. O tema escolhido para a página foi **God of War**, um jogo eletrônico amplamente conhecido.  
-⚠️Este é um projeto educacional sem fins lucrativos. Não tenho nenhuma afiliação oficial com a franquia **God of War**, seus criadores, ou detentores de direitos autorais. Todos os nomes, imagens e referências são utilizados apenas para fins ilustrativos e acadêmicos. Os direitos pertencem exclusivamente aos seus respectivos proprietários.
+
+⚠️Atenção: Este é um projeto educacional sem fins lucrativos. Não tenho nenhuma afiliação oficial com a franquia **God of War**, seus criadores, ou detentores de direitos autorais. 
+Todos os nomes, imagens e referências são utilizados apenas para fins ilustrativos e acadêmicos. 
+Os direitos pertencem exclusivamente aos seus respectivos proprietários.
 
 ## Objetivos do Projeto
 1. Criar uma página web responsiva seguindo o layout base do modelo fornecido.
