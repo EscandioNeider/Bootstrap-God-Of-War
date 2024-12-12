@@ -1,15 +1,20 @@
-html {
-    height: 100%;  
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
 }
 
 body {
-    margin: 0; /* Remove margens padrão */
-    height: 100%;
-    background-image: url(media/iceland-nature.gif);
+    background-color: #515e77a0;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
+
 /* ---INDEX--- */
 /* Cabeçalho */
 .py-3{
@@ -39,16 +44,15 @@ header a {
 
 .row img {
     width: 100%;
-    height: auto; /* Mantém proporções */
+    height: auto; 
 }
 
 /* carrossel */
-.carousel .carousel-item img {
-    width: 60%; /* Ajuste conforme necessário */
-    height: 0%;  /* Mantém a proporção */
-    margin: 0 auto; /* Centraliza as imagens */
+.carousel-inner{
+    width: 60%;
+    height: 60%; 
+    margin: 0 auto; 
 }
-
 
 /* ---FOOTER--- */
 footer {
